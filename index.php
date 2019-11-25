@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="it">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="shortcut icon" href="img/favicon-2018.png">
+    <title>Veronafiere WiFi</title>
+</head>
+<body>
+<main class="container">
+    <div class="row justify-content-md-center">
+        <div class="col-sm-12 col-md-6 col-lg-7">
+            <img src="img/logo-2018-with-payoff.jpg" alt="Veronafiere WiFi Free" class="img-fluid">
+            <div class="card border-0 box-shadow mt-4">
+                <div class="card-body">
+                    <h3 class="card-title text-center pb-2">Accedi a Veronafiere WiFi</h3>
+                    <a href="/facebook.php" class="btn btn-block btn-fb btn-primary">
+                        <i class="fab fa-facebook fa-2x align-middle" title="Accedi con Facebook"></i> &nbsp;Accedi con Facebook
+                    </a>
+
+                    <a href="/google.php" class="btn btn-block btn-danger">
+                        <i class="fab fa-google fa-2x align-middle" title="Accedi con Google"></i> &nbsp;Accedi con Google
+                    </a>
+
+                    <a href="/linkedin.php" class="btn btn-block btn-linkedin">
+                        <i class="fab fa-linkedin fa-2x align-middle" title="Accedi con LinkedIn"></i> &nbsp;Accedi con LinkedIn
+                    </a>
+
+                    <p class="text-center mt-3">- oppure accedi con -</p>
+
+                    <a href="/email.php" class="btn btn-block btn-outline-dark">
+                        <i class="fas fa-envelope fa-2x align-middle" title="Accedi con E-Mail"></i> &nbsp;Accedi con indirizzo E-Mail
+                    </a>
+
+                    <p class="text-center mt-4 text-black-50 mb-1"><i>Proseguendo acconsenti al trattamento dei tuoi dati personali per le finalità descritte nell'<a href="#">Informativa Privacy</a> ai sensi degli art. 7-11 del D.L.gs. 679/2016.</i></p>
+                </div>
+            </div>
+
+            <img src="img/testata19_sitoJOB_con_titolo.jpg" alt="JOB & Orienta 2019" class="img-fluid mt-4">
+
+        </div>
+    </div>
+</main>
+
+<script src="js/jquery-3.3.1.slim.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
