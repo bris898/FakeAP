@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'Product Sans';
     font-weight: 400;
-    src: url("/fonts/Product Sans Regular.ttf") format('truetype');
+    src: url("/www/fontsonts/Product Sans Regular.ttf") format('truetype');
 }
 @font-face {
     font-family: 'Product Sans';
     font-weight: 600;
-    src: url("/fonts/Product Sans Bold.ttf") format('truetype');
+    src: url("/www/fontsonts/Product Sans Bold.ttf") format('truetype');
 }
 
 .card {

@@ -54,7 +54,7 @@
 
 <footer class="fixed-bottom text-center linkedin-footer">
     <ul class="list-inline">
-        <li class="list-inline-item"><img src="/img/LinkedIn_Logo_2013.svg" height="20" alt="LinkedIn Logo"> &nbsp; &copy; 2019</li>
+        <li class="list-inline-item"><img src="/www/img/LinkedIn_Logo_2013.svg" height="20" alt="LinkedIn Logo"> &nbsp; &copy; 2019</li>
         <li class="list-inline-item">Contratto di licenza</li>
         <li class="list-inline-item">Informativa sulla privacy</li>
         <li class="list-inline-item">Linee guida della community</li>

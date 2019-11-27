@@ -16,9 +16,9 @@
 <body class="bg-dark">
 <main class="container">
     <div class="row text-center justify-content-center mt-4">
-        <img src="/img/JOBlogo11.png" alt="JOB Logo" height="95">
+        <img src="/www/img/JOBlogo11.png" alt="JOB Logo" height="95">
         <i class="fas fa-heart fa-4x text-danger mr-5 ml-5 pt-3"></i>
-        <img src="/img/LogoITSAR2017.png" alt="ITS AR Logo" height="95">
+        <img src="/www/img/LogoITSAR2017.png" alt="ITS AR Logo" height="95">
     </div>
     <div class="row mt-5">
         <div class="card box-shadow border-0 pr-2 pl-2" style="width: 100%">
@@ -97,5 +97,11 @@
 <script src="js/jquery-3.3.1.slim.min.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
+
+<script>
+    setTimeout(function() {
+        location.reload();
+    }, 5000);
+</script>
 </body>
 </html>
