@@ -2,10 +2,12 @@
 Progetto sviluppato da alcuni studenti dell'ITS A. Rizzoli in occasione del Job & Orienta 2019.
 
 ## Configurazione (per Debian-based)
-Modificare il file _/etc/hostname_ e riavviare il daemon networking:
+Modificare il file _/etc/hostname_:
 ```
 veronafiere-wifi
-
+```
+E riavviare il daemon del networking:
+```
 sudo systemctl restart networking
 ```
 
@@ -35,4 +37,4 @@ sudo mysql -u root -p < import.sql
 Creare un file di connessione dal Manager delle connessioni e poi abilitare l'hotspot dal Network Manager.
 
 
-Non sarà riconosciuto ogni abuso illecito del seguente progetto.
+Non sarà riconosciuto ogni abuso illecito del presente progetto.
